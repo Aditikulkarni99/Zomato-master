@@ -1,4 +1,4 @@
-# zomato-master-projcet-shapeai
+# zomato-master-project-shapeai
 
 ## Installing and setting up docker on EC2
 
